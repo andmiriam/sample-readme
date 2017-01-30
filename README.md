@@ -40,4 +40,5 @@ var s = "This would be the code that developers can download to get started!";
 alert(s);
 ```
 
+---
 *repeat for other bots*
