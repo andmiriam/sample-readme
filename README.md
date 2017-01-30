@@ -4,7 +4,7 @@ Each of the bots would have content outlines in a similar way. This is just for 
 ## #1 Template name
 Brief summary of what this template is about. This paragraph should explain the 'what'. What is this template? What can you do with it? This is the overview.
 
-*chat-like to app-like scale illustration here*
+![alt text](https://github.com/andmiriam/sample-readme/blob/master/scale-sketch.jpg?raw=true "Scale Illustration")
 
 ### Why
 In this section we'll explain why you might choose this template over another template. 
@@ -28,7 +28,7 @@ If you're considering the X template, you might also be interested in: [Template
 * Thing blue
 
 ### Demos
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Video of Demo Bot in action")
+![alt text](https://github.com/andmiriam/sample-readme/blob/master/demo-video-sketch.jpg?raw=true "Video of Demo Bot in action")
 
 #### Live Bot Demo
 [Try this template with X bot](https://www.google.com "X bot using X template")
